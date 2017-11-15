@@ -1,2 +1,4 @@
 # hello-world
-This is my first repository
+Am new on githib
+And I swear am loving the community
+I have committed changes
