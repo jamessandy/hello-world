@@ -1,4 +1,4 @@
-# hello-world
-Am new on githib
-And I swear am loving the community
-I have committed changes
+Hello sugar labs
+Am Jammie sandy
+I am from Nigeria
+I love sugar labs
